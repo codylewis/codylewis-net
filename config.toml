@@ -1,0 +1,26 @@
+baseurl = "https://www.example.org/"
+languageCode = "en-us"
+title = "Cody Lewis"
+copyright = "Copyright &copy; {year} - Cody Lewis"
+canonifyurls = true
+theme = "kiera"
+
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+[author]
+    name = ""
+    github = ""
+    gitlab = ""
+    linkedin = ""
+    facebook = ""
+    twitter = ""
+    instagram = ""
+
+[params]
+    tagline = "*Insert creative tagline here*"
+
+
