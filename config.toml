@@ -1,4 +1,4 @@
-baseurl = "https://epic-pare-8b3f1d.netlify.com"
+baseurl = "https://codylewis.net"
 languageCode = "en-us"
 title = "Cody Lewis"
 copyright = "Copyright &copy; {year} - Cody Lewis"
@@ -12,12 +12,12 @@ enableEmoji = true
 pygmentsCodeFences = true
 
 [author]
-    name = ""
-    github = ""
+    name = "Cody Lewis"
+    github = "codylewis"
     gitlab = ""
-    linkedin = ""
+    linkedin = "codyslewis"
     facebook = ""
-    twitter = ""
+    twitter = "codylewis87"
     instagram = ""
 
 [params]
