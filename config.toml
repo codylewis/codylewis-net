@@ -4,6 +4,7 @@ title = "Cody Lewis"
 copyright = "Copyright &copy; {year} - Cody Lewis"
 canonifyurls = true
 theme = "kiera"
+preserveTaxonomyNames= true
 
 paginate = 3
 
