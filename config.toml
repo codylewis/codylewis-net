@@ -4,7 +4,9 @@ title = "Cody Lewis"
 copyright = "Copyright &copy; {year} - Cody Lewis"
 canonifyurls = true
 theme = "kiera"
+
 preserveTaxonomyNames= true
+googleAnalytics = "UA-135439252-1"
 
 paginate = 3
 
