@@ -2,8 +2,10 @@
 title = "Staying Healthy With the Active Pseudo Class"
 date = 2019-02-28T10:38:34-06:00
 draft = false
-tags = ["css"]
+tags = ["css","psuedoclass"]
 categories = ["CSSeries"]
+
+hasCodePen = true
 +++
 
 The `:active` selector used when an element is in a, you guessed it, active state.
@@ -23,15 +25,14 @@ You can easily activate a psuedo class using the dev tools within your browser o
   A Different Way to Use :active</a> by outliercody (<a href="https://codepen.io/outliercody">@outliercody</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 ## `:active` and Other Pseudo Classes
 
 Order matters when `:active` interacts with other psuedo classes such as `:link`, `:visited`, and `:hover`. There's a handy acronym, custory of Sara Cope, to remember the correct order called "LOVE HATE"
 
-<p class="codepen" data-height="265" data-theme-id="0" data-default-tab="css" data-user="outliercody" data-slug-hash="rRxqwE" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="rRxqwE">
-  <span>See the Pen <a href="https://codepen.io/outliercody/pen/rRxqwE/">
-  rRxqwE</a> by outliercody (<a href="https://codepen.io/outliercody">@outliercody</a>)
+<p class="codepen" data-height="265" data-theme-id="0" data-default-tab="css,result" data-user="codylewis" data-slug-hash="rRxqwE" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="Pseudo classes LOVE HATE">
+  <span>See the Pen <a href="https://codepen.io/codylewis/pen/rRxqwE/">
+  Pseudo classes LOVE HATE</a> by codylewis (<a href="https://codepen.io/codylewis">@codylewis</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 
@@ -41,13 +42,9 @@ One item I learned while writing this is the difference between `a` and `a:link`
 
 <p class="codepen" data-height="265" data-theme-id="0" data-default-tab="html,result" data-user="outliercody" data-slug-hash="XGXxxb" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="Examples">
   <span>See the Pen <a href="https://codepen.io/outliercody/pen/XGXxxb/">
-  Examples</a> by outliercody (<a href="https://codepen.io/outliercody">@outliercody</a>)
+  Examples</a> by outliercody (<a href="https://codepen.io/codylewis">@codylewis</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
-
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 ### Resources
 
