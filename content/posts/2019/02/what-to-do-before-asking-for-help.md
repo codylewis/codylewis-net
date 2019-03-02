@@ -1,6 +1,6 @@
 +++
 title = "What to Do Before Asking for Help"
-date = 2019-02-02T09:59:04-06:00
+date = 2019-02-02
 draft = false
 tags = ["problemsolving"]
 categories = []
