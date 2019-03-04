@@ -55,6 +55,7 @@ One item I learned while writing this is the difference between `a` and `a:link`
 
 ### Resources
 
+- [Can I use on :active](https://caniuse.com/#feat=css-sel2)
 - [CSS-Tricks on :active](https://css-tricks.com/almanac/selectors/a/active/)
 - [MDN on :active](https://developer.mozilla.org/en-US/docs/Web/CSS/:active)
 
