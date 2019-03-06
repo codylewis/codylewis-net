@@ -40,6 +40,6 @@ When I started in my career, I might have Googled the problem. There's a chance 
 
 I'd be a heck of a lot happier to have someone come to me and say that rather than "the build is broken"!
 
-### Related Resources
+### Resources
 
 - [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)
