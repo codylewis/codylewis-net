@@ -25,6 +25,5 @@ pygmentsCodeFences = true
     instagram = ""
 
 [params]
+    description = "Sharing my knowledge with anyone willing to listen"
     tagline = "Insert creative tagline here"
-
-
