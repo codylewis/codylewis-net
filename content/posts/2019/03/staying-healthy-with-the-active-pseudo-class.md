@@ -30,7 +30,7 @@ When clicking anywhere the CodePen below, a CSS selector `html:active` will appl
 
 ## `:active` and Other Pseudo Classes
 
-Order matters when `:active` interacts with other pseudo classes such as `:link`, `:visited`, and `:hover`. There's a handy acronym to remember the correct order called "LOVE HATE"
+Order matters when `:active` interacts with other pseudo classes such as `:link`, `:visited`, and `:hover`. There's a handy acronym to remember the correct order called "LOVE HATE".
 
 <p class="codepen" data-height="265" data-theme-id="0" data-default-tab="css" data-user="codylewis" data-slug-hash="rRxqwE" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="Pseudo classes LOVE HATE">
   <span>See the Pen <a href="https://codepen.io/codylewis/pen/rRxqwE/">
