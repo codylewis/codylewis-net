@@ -6,6 +6,7 @@ canonifyurls = true
 theme = "kiera"
 
 preserveTaxonomyNames= true
+disqusShortname = "codylewis-net"
 googleAnalytics = "UA-135439252-1"
 
 paginate = 3
