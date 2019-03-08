@@ -1,7 +1,7 @@
 +++
 title = "The Default Pseudo Class"
-date = 2019-03-10
-draft = true
+date = 2019-03-11
+draft = false
 tags = ["css","pseudoclass"]
 categories = ["CSSeries"]
 
@@ -10,13 +10,11 @@ hasCodePen = true
 
 ## When you think of a `:default` css selector, what HTML elements come to mind?
 
-`<input type="checkbox">`, `<input type='radio">`, and `<option>`[^1]are the first ones that register in my mind.
-
-One element that I didn't think of are default buttons within forms. I look forward to sharing how this one works.
+`<input type="checkbox">`, `<input type='radio">`, and `<option>`[^1]are the first ones that come to mind. But did you know that elements inside a form have defaults as well?
 
 ## Radio & Checkbox Inputs
 
-With radio and checkbox inputs, any elements that have the `checked` attribute on page load will have the `input:default` styling applied to them.
+With radio and checkbox inputs, any element that has the `checked` attribute on page load will have the `input:default` styling applied to them.
 
 In the example below, the choices "Blue" and "Morning" are the default values. The default styling on these elements persists throughout interactions with the inputs.
 
@@ -30,7 +28,7 @@ In the example below, the choices "Blue" and "Morning" are the default values. T
 
 Default form buttons are new to me and they are one of those "oh that's neat" features.
 
-How it works is the first button element within a `<form>` tag will be the default and styling from `button:default` will apply to it.
+The first button element within a `<form>` tag will be the default and styling from `button:default` will apply to it.
 
 <p class="codepen" data-height="265" data-theme-id="0" data-default-tab="css,result" data-user="codylewis" data-slug-hash="moEPye" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title=":default example form">
   <span>See the Pen <a href="https://codepen.io/codylewis/pen/moEPye/">
@@ -42,7 +40,7 @@ How it works is the first button element within a `<form>` tag will be the defau
 
 When I was learning about the `:default` pseudo class, I found the selector to be intriguing. Unfortunately, there doesn't seem to be a valid use case.
 
-If you have a valid use case please give me a shout on twitter, [@codylewis87](https://twitter.com/codylewis87) -- I look forward to hearing from you.
+If you have a valid use case please leave a comment down below -- I look forward to hearing from you.
 
 ### Resources
 
