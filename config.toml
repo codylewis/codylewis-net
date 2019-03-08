@@ -9,11 +9,21 @@ preserveTaxonomyNames= true
 disqusShortname = "codylewis-net"
 googleAnalytics = "UA-135439252-1"
 
-paginate = 3
+paginate = 5
 
 summaryLength = 30
 enableEmoji = true
 pygmentsCodeFences = true
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 30
 
 [author]
     name = "Cody Lewis"
