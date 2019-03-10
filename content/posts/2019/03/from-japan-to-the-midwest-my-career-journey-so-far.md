@@ -62,18 +62,43 @@ If I didn't get life together, my life would turn into the metaphorical equivale
 
 ## Revaluating Things
 
-That evening I sent an email to a some close friends and family, here's a snippet that summarizes it general sentiment.
+That evening I sent an email to a some close friends, here's a snippet that summarizes it general sentiment.
 
 > Agriculture is not a career option, I'm almost 100% positive this will be my last farm I go to. It's not that I'm not enjoying it, but I know that I won't enjoy it after 2 weeks.
 > 
 > So that's leads into my next post, I've decided to go forward with learning either web design or programming. 
 
-<!-- That's what I did -->
-<!-- I cut the trip short -->
-<!-- Finished out the non-farming aspects of it -->
+And that's what I did.
 
-<!-- Diving into the realm of self taught programming -->
-<!-- Internship -->
+I changed my return flight at 5am the next morning and headed to Kyoto to begin the remainder of my trip.
+
+<!-- Talk about Mt. Fuji? -->
+
+## Coming Back State Side
+
+After a quick trip to store to buy myself a desk, monitor, and computer, my entire existence was devoted to learning the web development.
+
+Night life, social life, any life outside of learning and progression didn't exist for the first few months. I started simple on sites like [Treehouse](https://teamtreehouse.com/) and expanded into more advanced ones such as [Frontend Master](https://frontendmasters.com/).
+
+I was steadily progressing and my dedication would soon pay off.
+
+## My First Invoice
+
+My first invoice was dated on November 14, 2015. 70 days from when I got back back from Japan.
+
+The work was handling the HTML and CSS aspects of an online application, and I had been fortunate in the opportunity.
+
+## Internship
+
+Because of the work I accomplished as a freelance agent, I was soon offered an internship with the company for with a three month time span starting January 1, 2016.
+
+Within these three month, the work was the same as I had done before but my responsibilities began to grow over time. 
+
+Fast word to a couple months later, and I was offered a full-time position. Less than 6 months from when my plane first touched down on the tarmac my hard work and dedication was continuing to pay off.
+
+I consider myself fortunate that the opportunities were available when they were, but I earned them myself regardless.
+
+## Full Time Employment
 
 <!-- Full time position -->
 <!-- More responsibilities -->
