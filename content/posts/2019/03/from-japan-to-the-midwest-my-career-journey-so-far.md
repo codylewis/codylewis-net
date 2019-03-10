@@ -3,7 +3,7 @@ title = "From Japan to the Midwest My Career Journey (So Far)"
 date = 2019-03-18
 draft = true
 tags = ["career","selftaught","travel"]
-categories = ["My Career"]
+categories = ["Career"]
 +++
 
 ## 2015
@@ -50,15 +50,40 @@ Start in Tokyo and do all things I've always wanted to do in Japan. Work on six 
 
 ![The shed at the farm after a day of organization](/posts/2019/03/from-japan-to-the-midwest-my-career-journey-so-far-shed.jpg#float-right)
 
-<!-- The family & farm -->
-<!-- Day one -->
-<!-- Day two -->
-<!-- The realization -->
+After a train ride to Tokyo, I found myself at the family's farm in a quiet suburb. A warm welcome, meal, and night's sleep later we took a 45 minute drive to their farm. Surprising right?
+
+Day one was easy enough. Hideo-san and I organized the shed where the harvesting crates and farm equipment resided. This was followed by weed whacking for a few hours in the afternoon.
 
 ![The field where I weed whacked for 8 hours and helped remove a wasp nest.](/posts/2019/03/from-japan-to-the-midwest-my-career-journey-so-far-farm.jpg#float-right)
 
-<!-- Reaching out to friends & family -->
-<!-- Wasp removal -->
-<!-- Departure -->
+Day two was something else entirely. Eight hour of weed whacking and hornet removal. It was in hour five when I a realization.
+
+If I didn't get life together, my life would turn into the metaphorical equivalent of eight hours of weed whacking. Every. Day.
+
+## Revaluating Things
+
+That evening I sent an email to a some close friends and family, here's a snippet that summarizes it general sentiment.
+
+> Agriculture is not a career option, I'm almost 100% positive this will be my last farm I go to. It's not that I'm not enjoying it, but I know that I won't enjoy it after 2 weeks.
+> 
+> So that's leads into my next post, I've decided to go forward with learning either web design or programming. 
+
+<!-- That's what I did -->
+<!-- I cut the trip short -->
+<!-- Finished out the non-farming aspects of it -->
+
+<!-- Diving into the realm of self taught programming -->
+<!-- Internship -->
+
+<!-- Full time position -->
+<!-- More responsibilities -->
+
+<!-- Meeting Cassie -->
+<!-- Moving to Wisconsin -->
+<!-- Job remotely -->
+
+<!-- Hacker hours -->
+<!-- Eddie -->
+<!-- Centare -->
 
 [^1]: [Japan International Travel Information](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Japan.html)
