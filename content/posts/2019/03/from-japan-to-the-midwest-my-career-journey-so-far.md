@@ -10,7 +10,9 @@ categories = ["Career"]
 
 This wasn't mentioned in the title but I'm not from Japan or the Midwest. I'm from Texas and that's where this story begins.
 
-At the time I had recently broken up my girlfriend and I was waiting tables in a restaurant as I had done for the past 2 years. My life didn't seem to be taking the direction I wanted it to go in... cue soul searching trip.
+At the time I had recently broken up my girlfriend and I was waiting tables in a restaurant as I had done for the past 2 years. I had dabbled in programming courses online but hasn't stuck with it to a measurable degree.
+
+My life didn't seem to be taking the direction I wanted it to go in... cue soul searching trip.
 
 ## 86 Days
 
@@ -65,8 +67,8 @@ If I didn't get life together, my life would turn into the metaphorical equivale
 That evening I sent an email to a some close friends, here's a snippet that summarizes it general sentiment.
 
 > Agriculture is not a career option, I'm almost 100% positive this will be my last farm I go to. It's not that I'm not enjoying it, but I know that I won't enjoy it after 2 weeks.
-> 
-> So that's leads into my next post, I've decided to go forward with learning either web design or programming. 
+>
+> So that's leads into my next post, I've decided to go forward with learning either web design or programming.
 
 And that's what I did.
 
@@ -92,7 +94,7 @@ The work was handling the HTML and CSS aspects of an online application, and I h
 
 Because of the work I accomplished as a freelance agent, I was soon offered an internship with the company for with a three month time span starting January 1, 2016.
 
-Within these three month, the work was the same as I had done before but my responsibilities began to grow over time. 
+Within these three month, the work was the same as I had done before but my responsibilities began to grow over time.
 
 Fast word to a couple months later, and I was offered a full-time position. Less than 6 months from when my plane first touched down on the tarmac my hard work and dedication was continuing to pay off.
 
