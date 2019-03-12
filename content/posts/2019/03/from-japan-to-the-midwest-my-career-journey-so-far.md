@@ -98,15 +98,34 @@ Within these three month, the work was the same as I had done before but my resp
 
 Fast word to a couple months later, and I was offered a full-time position. Less than 6 months from when my plane first touched down on the tarmac my hard work and dedication was continuing to pay off.
 
-I consider myself fortunate that the opportunities were available when they were, but I earned them myself regardless.
+I consider myself fortunate that the opportunities were available when they were but I earned them myself.
 
 ## Full Time Employment
 
-<!-- Full time position -->
-<!-- More responsibilities -->
+My day to day didn't change much if all once I found myself a full time employee. For the next few months I continued build the application I began during my freelance work.
 
-<!-- Meeting Cassie -->
-<!-- Moving to Wisconsin -->
+The application was an online sign in for a local walk-in clinic. The goal being to eliminate wait times in person so enable people to have an expedited visit when the physician was ready to see them.
+
+When the project began, the scope was simple enough. Capture basic fields relevant to the patient, their insurance, etc. Once the ball got rolling, there was a feature request to help automate the process further. By allowing a driver's license to be scanned all available fields will be automatically filled by the information provided -- can't beat that.
+
+This request came months after I had accepted the full time position and over time I was given additional responsibilities. When it came time to implement this, I had almost entirely full reign.
+
+Once work had began I was tasked with implementation as well coordinating development with a fellow developer overseas. I was at my growing edge through this entire time, failing, learning, and ultimately succeeding.
+
+Fast forward to a year later and it was time for the application to expand yet again. Patient doctors visit through video conference. That was the ideas and a daunting development task at this stage in my career. I had assistance in the beginning with some of the design, but I soon found myself in a position other wouldn't find themselves in for years.
+
+While this part of my career was some of the most challenging, it was also most rewarding. I'd worked with technologies such as WebRTC for the video feed and services such as Pusher to design a chat application for the providers. I might've been on my growing edge yet again, but this project was on the bleeding edge of technology at the time. Our releases coincided with Safari updates on macOS and iOS, an interesting restriction at the time.
+
+## I Met a Girl
+
+This is relevant to the story, so stick with me.
+
+You find what you're looking for when you least expect it, and what happened when I met my girlfriend Cassie. A vivacious women from the Midwest currently enrolled Baylor at Dallas in their nursing program.
+
+When we first met she told me where she was from and pointed to the mitten[^2] on the map. I didn't think less than two years later that we'd find ourselves back in her home state -- funny how life works.
+
+## Miles Away But Still Connected, Working Remotely
+
 <!-- Job remotely -->
 
 <!-- Hacker hours -->
@@ -114,3 +133,4 @@ I consider myself fortunate that the opportunities were available when they were
 <!-- Centare -->
 
 [^1]: [Japan International Travel Information](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Japan.html)
+[^2]: [Wisconsin mitten](https://www.google.com/search?client=firefox-b-1-d&q=wisconsin+mitten)
