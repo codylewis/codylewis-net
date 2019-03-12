@@ -126,7 +126,15 @@ When we first met she told me where she was from and pointed to the mitten[^2] o
 
 ## Miles Away But Still Connected, Working Remotely
 
-<!-- Job remotely -->
+I was fortunate during my transition to Wisconsin that I was able to take my previous position and work remotely. My responsibilities continued to grow and I was still challenged daily by different opportunities -- being remote didn't change that.
+
+Being new to a city, something that did change was how I was spending my free time. Since I didn't know anyone in the area and I heard great thing about the developer community in Milwaukee, I headed to Meetup.com to get involved.
+
+There were established groups like MilwaukeeJS, Laravel Milwaukee, and Wisconsin .Net Users Group that proudly representing their individual community on a regular basis, but there was one new and smaller group that caught my attention.
+
+## Milwaukee Hacker Hours
+
+> We are a couple of programmers who just want to learn and grow in our own way, who want to enjoy working on our own projects and becoming better at our craft.
 
 <!-- Hacker hours -->
 <!-- Eddie -->
