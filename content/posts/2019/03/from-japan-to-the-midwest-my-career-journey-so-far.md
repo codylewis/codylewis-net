@@ -24,7 +24,9 @@ At that point, I had a ticket booked for Japan leaving Aug 18, 2015, and returni
 >
 > Not required for stays of less than 90 days[^1]
 
-Luckily, as calculated, my trip was for _only_ 86 days. <sub>Did I mention I bought the ticket before making any plans for the actual trip?</sub>
+Luckily, as calculated, my trip was for _only_ 86 days.
+
+_Did I mention I bought the ticket before making any plans for the actual trip?_
 
 ## The Plan or Lack Thereof
 
@@ -36,7 +38,7 @@ There was _some_ thought put into this trip before the ticket was purchased:
 
 The first two are self-explanatory but the last item requires more explanation.
 
-> WorldWide Opportunities on Organic Farms, (WWOOF) is part of a worldwide movement linking visitors with organic farmers and growers to promote cultural and educational experiences based on trust and non-monetary exchange thereby helping to build a sustainable global community.[^3]
+> WorldWide Opportunities on Organic Farms, (WWOOF) is part of a worldwide movement linking visitors with organic farmers and growers to promote cultural and educational experiences based on trust and non-monetary exchange thereby helping to build a sustainable global community.[^2]
 
 I'd be working on farms as a means to explore the country and figure things out. Not too bad right?
 
@@ -148,12 +150,14 @@ I moved to Wisconsin for personal reasons, but I can confidently say even after 
 
 ## Today
 
-Since starting at Centare, I've spoken at meetups, one with an audience over 100. I'm writing on a daily basis on technical and soft skills. I'm continuing to learn through reading and listening audio books on my daily commute. I'm continuing to engage with the local developer community through meetups.
+Since starting at Centare, I’ve spoken at meetups, one with an audience more than 100 at Meet the Meetups II. I write articles on a daily basis on technical topics and soft skills needed in the workplace.
 
-I'm comfortable at my job but I'm not complacent -- and I'm just getting started.
+Continuing to learn through reading and listening audiobooks on my daily commute, ranging from _Atomic Habits_ by James Clear to classics like _How to Win Friends & Influence People_ by Dale Carnegie. Engaging with the local developer community through professional organizations. Also, I play a mean game of table tennis, where I serve on the board of the [Milwaukee Table Tennis Club](https://milwaukeettc.org/).
+
+I thrive at my work while expanding my world outside of the office to become the person I sought to be in 2014. I’ve covered a lot of distance in the last five years, physically and mentally, and the journey is just beginning.
 
 [^1]: [Japan International Travel Information](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Japan.html)
-[^2]: [What is WWOOF](https://wwoof.net/what-is-woof)
+[^2]: [What is WWOOF](https://wwoof.net/what-is-wwoof/)
 [^3]: [Wisconsin mitten](https://www.google.com/search?client=firefox-b-1-d&q=wisconsin+mitten)
 [^4]: [Centare - What We Do](https://www.centare.com/what_we_do/)
 
