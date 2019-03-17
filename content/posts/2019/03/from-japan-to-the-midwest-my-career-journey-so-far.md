@@ -36,7 +36,7 @@ There was _some_ thought put into this trip before the ticket was purchased:
 
 The first two are self-explanatory but the last item requires more explanation.
 
-> WorldWide Opportunities on Organic Farms, (WWOOF) is part of a worldwide movement linking visitors with organic farmers and growers to promote cultural and educational experiences based on trust and non-monetary exchange thereby helping to build a sustainable global community.
+> WorldWide Opportunities on Organic Farms, (WWOOF) is part of a worldwide movement linking visitors with organic farmers and growers to promote cultural and educational experiences based on trust and non-monetary exchange thereby helping to build a sustainable global community.[^3]
 
 I'd be working on farms as a means to explore the country and figure things out. Not too bad right?
 
@@ -52,7 +52,7 @@ Start in Tokyo and do all the things I've always wanted to do in Japan. Work on 
 
 ![The shed at the farm after a day of organization](/posts/2019/03/from-japan-to-the-midwest-my-career-journey-so-far-shed.jpg#float-right)
 
-After a train ride from Tokyo, I found myself at the family's house in a quiet suburb. A warm welcome, meal and a night's sleep. Later we took a 45-minute drive to their farm -- surprising, right? I thought it'd be in their backyard.
+After a train ride from Tokyo, I found myself at the family's house in a quiet suburb. The next day we took a 45-minute drive to their farm -- surprising, right? I thought it'd be in their backyard.
 
 Day one was easy enough. Hideo-san, the farmer, and I organized the shed where the harvesting crates and farm equipment were stored. This was followed by lunch, a mandatory nap, and weed-whacking for a few hours in the afternoon.
 
@@ -73,8 +73,6 @@ That evening, I sent an email to some close friends. Here's a snippet that summa
 And that's what I did.
 
 I changed my return flight at 5am the next morning and headed to Kyoto to begin the remainder of my trip.
-
-<!-- Talk about Mt. Fuji? -->
 
 ## Coming Back Home and Stateside
 
@@ -112,19 +110,19 @@ Once work had begun, I began implementation along with coordinating with a devel
 
 Fast-forward to a year later and it was time for the application to expand yet again. Patient and doctor visits through video conferencing. A daunting task at this stage in my career.
 
-While the most challenging, it also proved to be the most rewarding. I was working with technologies (WebRTC for the video feed) and services (Pusher to design the chat application) for the providers. This project was both my growing edge and the bleeding edge of technology at the time -- a double-edged sword. Our releases coincided with Safari updates on Apple devices, a first-time restriction for me.
+While the most challenging, it also proved to be the most rewarding. I was working with new technologies (WebRTC for the video feed) and integrating external services (Pusher for the chat application). This project was both my growing edge and the bleeding edge of technology at the time -- a double-edged sword. Our releases coincided with Safari updates on Apple devices, a first-time restriction for me.
 
 ## I Met a Girl
 
 This is relevant to the story, so please stick with me.
 
-You find what you're looking for when you least expect it, and that's what happened when I met my girlfriend, Cassie. A vivacious woman from the Midwest enrolled at Baylor University's nursing programing in Dallas.
+You find what you're looking for when you least expect it, and that's what happened when I met my girlfriend, Cassie. A vivacious woman from the Midwest enrolled at Baylor University's nursing program in Dallas.
 
-When we first met she told me where she was from and pointed to the mitten[^2] on the map. I didn't think that less than two years later that we'd find ourselves back in her home state -- funny how life works.
+When we first met she told me where she was from and pointed to the mitten[^3] on the map. I didn't think that less than two years later that we'd find ourselves back in her home state -- funny how life works.
 
 ## Miles Away But Still Connected, Working Remotely
 
-I was fortunate during my transition to Wisconsin to retain my position in Dallas working remotely. My responsibilities increased and I was challenged daily -- being remote hinder that.
+I was fortunate during my transition to Wisconsin to retain my position in Dallas working remotely. My responsibilities increased and I was challenged daily -- being remote didn't hinder that.
 
 Being new to MIlwaukee changed how I spent my free time. Besides Cassie, I didn't know anyone in the area. I heard great things about the developer community in the area so I headed to Meetup.com to get involved.
 
@@ -134,7 +132,7 @@ Established groups -- such as MilwaukeeJS, Laravel Milwaukee, and Wisconsin .Net
 
 > We are a couple of programmers who just want to learn and grow in our own way, who want to enjoy working on our own projects and becoming better at our craft.
 
-That's a brief description of what the Milwaukee Hacker Hours meetup group is about.
+That's a brief description of what the Milwaukee Hacker Hours group is about.
 
 When this group was first forming, I went to one of the first meetups and met the founder of the group, Eddie Litchman. We spoke about what he had and how it was such a great experience for new and experienced developers. I wanted to help in whatever way possible.
 
@@ -142,27 +140,20 @@ What came out of that conversation was a website, slack channel, and Twitter for
 
 ## Centare
 
-Through Eddie, I connected with a recruiter at Centare, which specializes in custom software development through agile methods and agile transformation for teams and organizations with our trainers and coaches.[^3] They were hiring for more senior positions but saw potential in me. So, the conversation continued.
+Through Eddie, I connected with a recruiter at Centare, which specializes in custom software development through agile methods and agile transformation for teams and organizations with our trainers and coaches.[^4] They were hiring for more senior positions but saw potential in me. So, the conversation continued.
 
 What started out as an introduction and hope turned into a phone interview. Then a take-home exercise. What followed was an in-person interview and a job offer.
 
 I moved to Wisconsin for personal reasons, but I can confidently say even after only being at Centare for 8 months that I would've moved here for the job -- with love and respect to Cassie.
 
-## Recap
+## Today
 
-<!-- How to finish?
+Since starting at Centare, I've spoken at meetups, one with an audience over 100. I'm writing on a daily basis on technical and soft skills. I'm continuing to learn through reading and listening audio books on my daily commute. I'm continuing to engage with the local developer community through meetups.
 
-Return trip to Japan with Cassie and experience from my new job. Differences from the first trip.
-
-Do I view Japan differently?
-
-What I am doing to continue to grow?
-1. Writing
-1. Audio book
-1. Meetup
--->
-
+I'm comfortable at my job but I'm not complacent -- and I'm just getting started.
 
 [^1]: [Japan International Travel Information](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Japan.html)
-[^2]: [Wisconsin mitten](https://www.google.com/search?client=firefox-b-1-d&q=wisconsin+mitten)
-[^3]: [Centare - What We Do](https://www.centare.com/what_we_do/)
+[^2]: [What is WWOOF](https://wwoof.net/what-is-woof)
+[^3]: [Wisconsin mitten](https://www.google.com/search?client=firefox-b-1-d&q=wisconsin+mitten)
+[^4]: [Centare - What We Do](https://www.centare.com/what_we_do/)
+
