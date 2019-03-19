@@ -2,7 +2,7 @@
 title = "Staying Healthy With the Active Pseudo Class"
 date = 2019-03-07
 draft = false
-tags = ["css","pseudoclass"]
+tags = ["css","pseudoclass","programming"]
 categories = ["CSSeries"]
 
 hasCodePen = true

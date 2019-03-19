@@ -2,7 +2,7 @@
 title = "The Default Pseudo Class"
 date = 2019-03-11
 draft = false
-tags = ["css","pseudoclass"]
+tags = ["css","pseudoclass","programming"]
 categories = ["CSSeries"]
 
 hasCodePen = true

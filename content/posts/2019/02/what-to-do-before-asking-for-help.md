@@ -2,7 +2,7 @@
 title = "What to Do Before Asking for Help"
 date = 2019-02-27T09:59:04-06:00
 draft = false
-tags = ["problemsolving"]
+tags = ["problemsolving","programming"]
 categories = ["Soft Skills"]
 +++
 
