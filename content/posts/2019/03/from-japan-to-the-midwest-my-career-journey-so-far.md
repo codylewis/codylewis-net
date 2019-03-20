@@ -2,7 +2,7 @@
 title = "From Japan to the Midwest My Career Journey (So Far)"
 date = 2019-03-18
 draft = true
-tags = ["career","selftaught","travel"]
+tags = ["career","selftaught","travel","programming"]
 categories = ["Career"]
 +++
 
@@ -18,7 +18,7 @@ My life didn't seem to be taking the direction I wanted it to go in... cue soul-
 
 Jan 14, 2015.
 
-At that point, I had a ticket booked for Japan leaving Aug 18, 2015, and returning Nov 12, 2015.
+At that point, I had a ticket booked for Japan leaving August 18, 2015, and returning November 12, 2015.
 
 > **TOURIST VISA REQUIRED:**
 >
@@ -78,9 +78,9 @@ I changed my return flight at 5am the next morning and headed to Kyoto to begin 
 
 ## Coming Back Home and Stateside
 
-After a quick trip to the store to buy myself a desk, monitor and computer, my entire existence was devoted to learning web development.
+After a trip to the store to buy myself a desk, monitor and computer, my entire existence was devoted to learning web development.
 
-Video game life, social life, any life outside of learning and progression didn't exist for the first few months. I started simple on websites like [Treehouse](https://teamtreehouse.com/) and expanded into more advanced ones, such as [Frontend Master](https://frontendmasters.com/).
+Video game life, social life, any life outside of learning and progression didn't exist for the first few months. I started simple on websites like [Treehouse](https://teamtreehouse.com/) and expanded into more advanced ones, such as [Frontend Masters](https://frontendmasters.com/).
 
 I progressed steadily and my dedication would soon pay off.
 
@@ -96,15 +96,15 @@ Because of the work I accomplished as a freelance agent, I was offered an intern
 
 During this time, the work was the same as I had done before but my responsibilities began to grow.
 
-Fast-forward to a couple months later, and I accepted a full-time position. Less than 6 months from when my plane first touched down on the tarmac in Dallas, my hard work and dedication were continuing to pay off.
+Fast-forward to a couple months later, and I accepted a full-time position. Less than 6 months from when my plane first touched down on the tarmac in Dallas, my hard work and dedication continued to pay off.
 
 ## Full-Time Employment
 
-My day-to-day activities didn't change much, if at all, after becoming a full-time employee. For the next few months I continued to build the application begun during my freelance work.
+My day-to-day activities didn't change much, if at all, after becoming a full-time employee. For the next few months, I continued to build the application begun during my freelance work.
 
 The application was an online sign-in for a local, walk-in clinic. The goal was to eliminate wait times in person. In turn, enabling patients to have an expedited visit when the physician was ready to see them.
 
-When the project began, the scope was simple enough. Capture their basic information, insurance and other pertinent details. Once the ball got rolling, there was a feature request to help automate the process further. Scanning a driver's license so that all available fields will be automatically filled -- can't beat that.
+When the project began, the scope was simple enough. Capture their basic information, insurance and other pertinent details. Once the ball got rolling, there was a feature request to help automate the process further. Scanning a driver's license so that all available fields would automatically be filled -- can't beat that.
 
 This request came months after I had started. When it came time to implement this feature, I shouldered almost all of the responsibilities.
 
@@ -112,7 +112,7 @@ Once work had begun, I began implementation along with coordinating with a devel
 
 Fast-forward to a year later and it was time for the application to expand yet again. Patient and doctor visits through video conferencing. A daunting task at this stage in my career.
 
-While the most challenging, it also proved to be the most rewarding. I was working with new technologies (WebRTC for the video feed) and integrating external services (Pusher for the chat application). This project was both my growing edge and the bleeding edge of technology at the time -- a double-edged sword. Our releases coincided with Safari updates on Apple devices, a first-time restriction for me.
+While the most challenging, it also proved to be the most rewarding. I was working with new technologies (WebRTC for the video feed) and integrating external services (Pusher for the chat application). This project was both my growing edge and the bleeding edge of technology at the time -- a double-edged sword[^3]. Our releases coincided with Safari updates on Apple devices, a first-time restriction for me.
 
 ## I Met a Girl
 
@@ -120,15 +120,15 @@ This is relevant to the story, so please stick with me.
 
 You find what you're looking for when you least expect it, and that's what happened when I met my girlfriend, Cassie. A vivacious woman from the Midwest enrolled at Baylor University's nursing program in Dallas.
 
-When we first met she told me where she was from and pointed to the mitten[^3] on the map. I didn't think that less than two years later that we'd find ourselves back in her home state -- funny how life works.
+When we first met she told me where she was from and pointed to the mitten[^4] on the map. I didn't think that less than two years later that we'd find ourselves back in her home state -- funny how life works.
 
 ## Miles Away But Still Connected, Working Remotely
 
 I was fortunate during my transition to Wisconsin to retain my position in Dallas working remotely. My responsibilities increased and I was challenged daily -- being remote didn't hinder that.
 
-Being new to MIlwaukee changed how I spent my free time. Besides Cassie, I didn't know anyone in the area. I heard great things about the developer community in the area so I headed to Meetup.com to get involved.
+Being new to Milwaukee changed how I spent my free time. Besides Cassie, I didn't know anyone in the area. I heard great things about the developer community so I headed to Meetup.com to get involved.
 
-Established groups -- such as MilwaukeeJS, Laravel Milwaukee, and Wisconsin .Net Users Group -- were representing their communities on a regular basis, but there was one new and smaller group that caught my attention -- Milwaukee Hacker Hours.
+Established groups -- such as MilwaukeeJS, Laravel Milwaukee and Wisconsin .Net Users Group -- were representing their communities on a regular basis, but there was one new and smaller group that caught my attention -- Milwaukee Hacker Hours.
 
 ## Milwaukee Hacker Hours
 
@@ -142,7 +142,7 @@ What came out of that conversation was a website, slack channel, and Twitter for
 
 ## Centare
 
-Through Eddie, I connected with a recruiter at Centare, which specializes in custom software development through agile methods and agile transformation for teams and organizations with our trainers and coaches.[^4] They were hiring for more senior positions but saw potential in me. So, the conversation continued.
+Through Eddie, I connected with a recruiter at Centare, a company which specializes in custom software development through agile methods and agile transformation for teams and organizations with their trainers and coaches.[^5] They were hiring for more senior positions but saw potential in me. So, the conversation continued.
 
 What started out as an introduction and hope turned into a phone interview. Then a take-home exercise. What followed was an in-person interview and a job offer.
 
@@ -150,7 +150,7 @@ I moved to Wisconsin for personal reasons, but I can confidently say even after 
 
 ## Today
 
-Since starting at Centare, I’ve spoken at meetups, one with an audience more than 100 at Meet the Meetups II. I write articles on a daily basis on technical topics and soft skills needed in the workplace.
+Since starting at Centare, I’ve spoken at meetups, one with an audience more than 100 at Meet the Meetups II. I write on a daily basis on technical topics and soft skills needed in the workplace.
 
 Continuing to learn through reading and listening audiobooks on my daily commute, ranging from _Atomic Habits_ by James Clear to classics like _How to Win Friends & Influence People_ by Dale Carnegie. Engaging with the local developer community through professional organizations. Also, I play a mean game of table tennis, where I serve on the board of the [Milwaukee Table Tennis Club](https://milwaukeettc.org/).
 
@@ -158,6 +158,6 @@ I thrive at my work while expanding my world outside of the office to become the
 
 [^1]: [Japan International Travel Information](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Japan.html)
 [^2]: [What is WWOOF](https://wwoof.net/what-is-wwoof/)
-[^3]: [Wisconsin mitten](https://www.google.com/search?client=firefox-b-1-d&q=wisconsin+mitten)
-[^4]: [Centare - What We Do](https://www.centare.com/what_we_do/)
-
+[^3]: Puns are great, that is all 😄
+[^4]: [Wisconsin mitten](https://www.google.com/search?client=firefox-b-1-d&q=wisconsin+mitten)
+[^5]: [Centare - What We Do](https://www.centare.com/what_we_do/)
