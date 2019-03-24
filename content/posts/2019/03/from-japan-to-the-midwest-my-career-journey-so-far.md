@@ -1,8 +1,10 @@
+
+
 +++
 title = "From Japan to the Midwest My Career Journey (So Far)"
-date = 2019-03-18
+date = 2019-03-24
 draft = true
-tags = ["career","selftaught","travel","programming"]
+tags = ["career","selftaught","travel"]
 categories = ["Career"]
 +++
 
@@ -10,7 +12,7 @@ categories = ["Career"]
 
 This wasn't mentioned in the title but I'm not from Japan or the Midwest. I'm from Texas and that's where this story begins.
 
-At the time, I had recently broken up with my girlfriend. I had been waiting tables for the past two years while earning my college degree. I also had dabbled in programming courses online.
+At the time, I had recently broken up with my girlfriend. I had been waiting tables for the past two years while earning my college degree. I had also dabbled in programming courses online.
 
 My life didn't seem to be taking the direction I wanted it to go in... cue soul-searching trip.
 
@@ -88,7 +90,7 @@ I progressed steadily and my dedication would soon pay off.
 
 My first invoice, dated November 14, 2015 -- 70 days from when I got back from Japan.
 
-The work was handling the HTML and CSS aspects of an online application. I had been fortunate to land this opportunity and the initial success led to further work.
+The work was handling the HTML and CSS aspects of a web application. I had been fortunate to land this opportunity and the initial success led to further work.
 
 ## Internship
 
@@ -102,13 +104,13 @@ Fast-forward to a couple months later, and I accepted a full-time position. Less
 
 My day-to-day activities didn't change much, if at all, after becoming a full-time employee. For the next few months, I continued to build the application begun during my freelance work.
 
-The application was an online sign-in for a local, walk-in clinic. The goal was to eliminate wait times in person. In turn, enabling patients to have an expedited visit when the physician was ready to see them.
+The application was an online portal for a local urgent care facility. The goal was to eliminate wait times in person. In turn, enabling patients to have an expedited visit when the physician was ready to see them.
 
 When the project began, the scope was simple enough. Capture their basic information, insurance and other pertinent details. Once the ball got rolling, there was a feature request to help automate the process further. Scanning a driver's license so that all available fields would automatically be filled -- can't beat that.
 
 This request came months after I had started. When it came time to implement this feature, I shouldered almost all of the responsibilities.
 
-Once work had begun, I began implementation along with coordinating with a developer overseas. I was at my growing edge this entire time -- failing, learning and ultimately succeeding.
+This work differed from past projects due to coordinating with a developer overseas during implementation. I was at my growing edge this entire time -- failing, learning and ultimately succeeding.
 
 Fast-forward to a year later and it was time for the application to expand yet again. Patient and doctor visits through video conferencing. A daunting task at this stage in my career.
 
@@ -120,7 +122,7 @@ This is relevant to the story, so please stick with me.
 
 You find what you're looking for when you least expect it, and that's what happened when I met my girlfriend, Cassie. A vivacious woman from the Midwest enrolled at Baylor University's nursing program in Dallas.
 
-When we first met she told me where she was from and pointed to the mitten[^4] on the map. I didn't think that less than two years later that we'd find ourselves back in her home state -- funny how life works.
+When we first met she told me where she was from and pointed to the mitten[^4] on the map. I didn't think that less than two years later we'd find ourselves back in her home state -- funny how life works.
 
 ## Miles Away But Still Connected, Working Remotely
 
@@ -132,29 +134,29 @@ Established groups -- such as MilwaukeeJS, Laravel Milwaukee and Wisconsin .Net 
 
 ## Milwaukee Hacker Hours
 
+Here’s a brief description of what the Milwaukee Hacker Hours group is about.
+
 > We are a couple of programmers who just want to learn and grow in our own way, who want to enjoy working on our own projects and becoming better at our craft.
 
-That's a brief description of what the Milwaukee Hacker Hours group is about.
-
-When this group was first forming, I went to one of the first meetups and met the founder of the group, Eddie Litchman. We spoke about what he had and how it was such a great experience for new and experienced developers. I wanted to help in whatever way possible.
+When this group was first forming, I went to one of the first meetups and met the founder of the group, [Eddie Litchman](https://www.linkedin.com/in/edwardlichtman/). We spoke about what he had and how it was such a great experience for new and experienced developers. I wanted to help in whatever way possible.
 
 What came out of that conversation was a website, slack channel, and Twitter for the group. From a handful of people, the group has since then gained 527 members and meets on a regular basis.
 
 ## Centare
 
-Through Eddie, I connected with a recruiter at Centare, a company which specializes in custom software development through agile methods and agile transformation for teams and organizations with their trainers and coaches.[^5] They were hiring for more senior positions but saw potential in me. So, the conversation continued.
+Through Eddie, I connected with a recruiter at [Centare](https://www.centare.com/), a company which specializes in custom software development through agile methods and agile transformation for teams and organizations.[^5] They were hiring for more senior positions but saw potential in me. So, the conversation continued.
 
-What started out as an introduction and hope turned into a phone interview. Then a take-home exercise. What followed was an in-person interview and a job offer.
+What started out as an introduction and hope turned into a phone interview. Then a take-home exercise, followed by an in-person interview and a job offer.
 
 I moved to Wisconsin for personal reasons, but I can confidently say even after only being at Centare for 8 months that I would've moved here for the job -- with love and respect to Cassie.
 
 ## Today
 
-Since starting at Centare, I’ve spoken at meetups, one with an audience more than 100 at Meet the Meetups II. I write on a daily basis on technical topics and soft skills needed in the workplace.
+Since starting at Centare, I’ve spoken at meetups, one with an audience of more than 100 at Meet the Meetups II. I write on a daily basis on technical topics and soft skills needed in the workplace.
 
-Continuing to learn through reading and listening audiobooks on my daily commute, ranging from _Atomic Habits_ by James Clear to classics like _How to Win Friends & Influence People_ by Dale Carnegie. Engaging with the local developer community through professional organizations. Also, I play a mean game of table tennis, where I serve on the board of the [Milwaukee Table Tennis Club](https://milwaukeettc.org/).
+I’m continuing to learn through reading and listening to audiobooks on my daily commute, ranging from _Atomic Habits_ by James Clear to classics like _How to Win Friends & Influence People_ by Dale Carnegie. I’m engaging with the local developer community through professional organizations. Also, I play a mean game of table tennis, where I serve on the board of the [Milwaukee Table Tennis Club](https://milwaukeettc.org/).
 
-I thrive at my work while expanding my world outside of the office to become the person I sought to be in 2014. I’ve covered a lot of distance in the last five years, physically and mentally, and the journey is just beginning.
+I thrive at my job while expanding my world outside of the office to become the person I sought to be in 2014. I’ve covered a lot of distance in the last five years, physically and mentally, and the journey is just beginning.
 
 [^1]: [Japan International Travel Information](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Japan.html)
 [^2]: [What is WWOOF](https://wwoof.net/what-is-wwoof/)
