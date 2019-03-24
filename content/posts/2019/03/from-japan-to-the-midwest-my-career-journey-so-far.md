@@ -3,7 +3,7 @@
 +++
 title = "From Japan to the Midwest My Career Journey (So Far)"
 date = 2019-03-24
-draft = true
+draft = false
 tags = ["career","selftaught","travel"]
 categories = ["Career"]
 +++
