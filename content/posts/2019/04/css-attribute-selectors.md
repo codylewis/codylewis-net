@@ -29,6 +29,28 @@ Before we get too far into things, below is an example of an attribute one could
 
 The most simple and straight forward use of the attribute selector. Any element that has `data-option` will have the styling applied.
 
+The content aptly containing Forgetful does not have the `data-option` attribute hence the lack of styling.
+
+## Attribute & Values
+
+Attribute selectors are powerful but they become even more so when you specify a value that the attribute needs to equal.
+
+<p class="codepen" data-height="310" data-theme-id="0" data-default-tab="css,result" data-user="codylewis" data-slug-hash="VRNLON" style="height: 310px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="Attribute Selector 2">
+  <span>See the Pen <a href="https://codepen.io/codylewis/pen/VRNLON/">
+  Attribute Selector 2</a> by codylewis (<a href="https://codepen.io/codylewis">@codylewis</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+
+Oddly enough, even though the first selector with the value of "Alert" seems to be more specific that actually isn't the case since the `color: blue` styling isn't applied to the "Alert" text.
+
+Order matter as well as specificity and we see that in action with the `color: green` styling being applied as intended to the "Lazy" text.
+
+<p class="codepen" data-height="260" data-theme-id="0" data-default-tab="css,result" data-user="codylewis" data-slug-hash="eXopNM" style="height: 260px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="Attribute Selector 3">
+  <span>See the Pen <a href="https://codepen.io/codylewis/pen/eXopNM/">
+  Attribute Selector 3</a> by codylewis (<a href="https://codepen.io/codylewis">@codylewis</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+
 <!-- [attr~=value] -->
 <!-- [attr|=value] -->
 <!-- [attr^=value] -->
