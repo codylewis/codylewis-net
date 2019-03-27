@@ -12,7 +12,7 @@ It's simple, have fun at your job.
 
 ## You're the Catalyst
 
-While easier said than done, it starts with *you*. Whether you're a manager, C-level executive or a regular employee -- you're the catalyst for change. (Cody, you need a long dash here, connected, like below.)
+While easier said than done, it starts with *you*. Whether you're a manager, C-level executive or a regular employee -- you're the catalyst for change.
 
 I'm not going to tell you how to have fun because what's fun for one person is a chore for the other. I'll instead delve into the benefits you and your coworkers will have.
 
@@ -36,13 +36,13 @@ For me, nothing (within reason).
 
 I'm not talking about tax returns or jury duty. But seriously, what's the point of doing something you don’t enjoy?
 
-If you don't like where you work, strive to improve things there, or if need be, find a better job elsewhere. Move, don’t mope. When you love your job, everything else seems to fall into place. It’s like being love, with employee benefits.  So, be the catalyst for change.
+If you don't like where you work, strive to improve things there, or if need be, find a better job elsewhere. Move, don’t mope. When you love your job, everything else seems to fall into place. It’s like being in love, with employee benefits.  So, be the catalyst for change.
 
 Whatever your situation, you have the power to make things better. Take charge.
 
 For instance, the next time you're  talking to a recruiter, ask them this: "Is having fun part of the job?"
 
-If the question stumps or the recruiter, or worse, leaves him nonplussed, then that’s probably not the response--or job--you want. Says thanks and move on.
+If the question stumps or the recruiter, or worse, leaves him nonplussed, then that’s probably not the response--or job--you want. Say thanks and move on.
 
 [^1]: [Six Ways Happiness Is Good for Your Health](https://greatergood.berkeley.edu/article/item/six_ways_happiness_is_good_for_your_health)
 [^2]: [Fun in the office](https://www.ciphr.com/advice/fun-in-the-office/)
