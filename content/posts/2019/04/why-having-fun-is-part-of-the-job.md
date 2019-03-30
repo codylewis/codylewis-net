@@ -1,7 +1,7 @@
 +++
 title = "Why Having Fun Is Part of the Job"
-date = 2019-03-27
-draft = true
+date = 2019-04-07
+draft = false
 tags = ["career"]
 categories = ["At Work"]
 +++

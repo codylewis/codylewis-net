@@ -1,7 +1,7 @@
 +++
 title = "Am I at a Disadvantage Being Self-taught?"
-date = 2019-03-25
-draft = true
+date = 2019-03-31
+draft = false
 tags = ["career","selftaught","selfimprovement","programming"]
 categories = ["Career"]
 +++
