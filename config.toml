@@ -9,7 +9,7 @@ preserveTaxonomyNames= true
 disqusShortname = "codylewis-net"
 googleAnalytics = "UA-135439252-1"
 
-paginate = 5
+paginate = 10
 
 summaryLength = 30
 enableEmoji = true
