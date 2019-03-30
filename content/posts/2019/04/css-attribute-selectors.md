@@ -51,6 +51,10 @@ Order matter as well as specificity and we see that in action with the `color: g
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 
+The `~` allows for there to be multiple values as long as they are separated by whitespace.
+
+In the example above, the `[data-option~="Alert"]` selector is applied to the `<li>` tag with the attribute value of "Alert Awake" since there is space separating the two. The other `<li>` with the attribute of "AlertAwake" does not have the rule applied because of the **lack** of whitespace.
+
 <!-- [attr~=value] -->
 <!-- [attr|=value] -->
 <!-- [attr^=value] -->
