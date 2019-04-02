@@ -109,9 +109,29 @@ The `*` is one of the most useful and dangerous of the attribute selector. As al
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 
+Case insensitivity means that wether it's "Furry" or "FURRY" the CSS selector will apply so long as the values still match the criteria.
 
-<!-- [attr operator value s] -->
+## Case Sensitivity with `s` <small title="This is an experimental API that should not be used in production code."><i class="fa fa-flask" aria-hidden="true"></i></small>
 
+<p class="codepen" data-height="265" data-theme-id="0" data-default-tab="html,result" data-user="codylewis" data-slug-hash="mgyvrd" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="Attribute Selector 9">
+  <span>See the Pen <a href="https://codepen.io/codylewis/pen/mgyvrd/">
+  Attribute Selector 9</a> by codylewis (<a href="https://codepen.io/codylewis">@codylewis</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+
+Vice versa, case sensitivity means that the value must match exactly in regards to what characters are capitalized.
+
+## Combing Rules
+
+<p class="codepen" data-height="265" data-theme-id="0" data-default-tab="css,result" data-user="codylewis" data-slug-hash="rbaPmK" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="Attribute Selector 10">
+  <span>See the Pen <a href="https://codepen.io/codylewis/pen/rbaPmK/">
+  Attribute Selector 10</a> by codylewis (<a href="https://codepen.io/codylewis">@codylewis</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+
+The real fun and potentially lack of real world usage comes into play with you start to combine selectors!
+
+## Closing
 
 ### Resources
 
