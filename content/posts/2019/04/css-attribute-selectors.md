@@ -15,7 +15,7 @@ hasCodePen = true
 
 If you've worked with CSS before the syntax above should look familiar. You have a class name as the selector and the styles applied to it.
 
-Attribute selectors are not used nearly as often as class selectors but they're an excellent tool to have available. We'll start with the common and more well know uses cases and some that few people will ever use.
+Attribute selectors are not used nearly as often as class selectors but they're an excellent tool to have available. We'll start with the common and better know uses cases and some that few people will ever use.
 
 ## Attribute Selectors
 
@@ -43,7 +43,7 @@ Attribute selectors are powerful but they become even more so when you specify a
 
 Oddly enough, even though the first selector with the value of "canine" seems to be more specific that actually isn't the case since the `color: cyan` styling isn't applied to the "Dog" text.
 
-Order matter as well as specificity and we see that in action with the `color: seagreen` styling being applied as intended to the "Cat" text.
+Order, as well as specificity, matters. This is seen in action with the `color: seagreen` styling being applied as intended to the "Cat" text.
 
 ## Tilde `~`
 
@@ -75,7 +75,7 @@ The `|` before the equal sign is the exact same as the previous example with the
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 
-The `^` indicates that the attribute value must prefixed by the value in the CSS selector. In this instance, the `data-attr` value must be prefix with "Four" for the selector and styling to be applied.
+The `^` indicates that the attribute value must prefix by the value in the CSS selector. In this instance, the `data-attr` value must prefix with "Four" for the selector and styling to be applied.
 
 ## Dollar Sign `$`
 
@@ -85,7 +85,7 @@ The `^` indicates that the attribute value must prefixed by the value in the CSS
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 
-The example above is the same on the previous except for one character. In the CSS selector the `^` has been replaced by a `$`. Instead of a prefix, the value of the CSS selector must suffixed the attribute value on the element.
+The example above is the same on the previous except for one character. In the CSS selector, the `^` has been replaced by a `$`. Instead of a prefix, the value of the CSS selector must suffix the attribute value on the element.
 
 ## Asterisk `*`
 
@@ -95,7 +95,7 @@ The example above is the same on the previous except for one character. In the C
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 
-The `*` is one of the most useful and dangerous of the attribute selector. As along as the CSS selector value is within the attribute value then the styling will be applied.
+The `*` is one of the most useful and dangerous of the attribute selector. As long as the CSS selector value is within the attribute value then the styling will be applied.
 
 > With great power comes great responsibility
 >
@@ -109,7 +109,7 @@ The `*` is one of the most useful and dangerous of the attribute selector. As al
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 
-Case insensitivity means that wether it's "Furry" or "FURRY" the CSS selector will apply so long as the values still match the criteria.
+Case insensitivity means that whether it's "Furry" or "FURRY" the CSS selector will apply so long as the values still match the criteria.
 
 ## Case Sensitivity with `s` <small title="This is an experimental API that should not be used in production code."><i class="fa fa-flask" aria-hidden="true"></i></small>
 
@@ -121,7 +121,7 @@ Case insensitivity means that wether it's "Furry" or "FURRY" the CSS selector wi
 
 Vice versa, case sensitivity means that the value must match exactly in regards to what characters are capitalized.
 
-## Combing Rules
+## Combining Rules
 
 <p class="codepen" data-height="265" data-theme-id="0" data-default-tab="css,result" data-user="codylewis" data-slug-hash="rbaPmK" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="Attribute Selector 10">
   <span>See the Pen <a href="https://codepen.io/codylewis/pen/rbaPmK/">
@@ -129,9 +129,9 @@ Vice versa, case sensitivity means that the value must match exactly in regards 
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 
-The real fun and potentially lack of real world usage comes into play with you start to combine selectors!
+The real fun and potentially lack of real-world usage comes into play with you start to combine selectors!
 
-## Closing
+There are endless applications of these selectors but with CSS less is more -- more maintainable for sure.
 
 ### Resources
 
