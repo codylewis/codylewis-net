@@ -15,11 +15,9 @@ hasCodePen = true
 
 If you've worked with CSS before the syntax above should look familiar. You have a class name as the selector and the styles applied to it.
 
-Attribute selectors are not used nearly as often as class selectors but they're an excellent tool to have available. We'll start with the common and better know uses cases and some that few people will ever use.
+Attribute selectors, however, are not used as often as class selectors but they're an excellent tool to have available. We'll start with the common and better know use cases and edge cases that see less usage.
 
-## Attribute Selectors
-
-Before we get too far into things, below is an example of an attribute one could find -- we'll be referencing this through the CSS examples below.
+## The Basics
 
 <p class="codepen" data-height="225" data-theme-id="0" data-default-tab="css,result" data-user="codylewis" data-slug-hash="GezXwP" style="height: 225px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="GezXwP">
   <span>See the Pen <a href="https://codepen.io/codylewis/pen/GezXwP/">
@@ -27,13 +25,11 @@ Before we get too far into things, below is an example of an attribute one could
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 
-The most simple and straight forward use of the attribute selector. Any element that has `data-option` will have the styling applied.
+Here is a simple use of the attribute selector, any element that has `data-option` will have the styling applied.
 
 The "Wolf" does not have the `data-alt` attribute hence the lack of styling.
 
 ## Attribute & Values
-
-Attribute selectors are powerful but they become even more so when you specify a value that the attribute needs to equal.
 
 <p class="codepen" data-height="310" data-theme-id="0" data-default-tab="css,result" data-user="codylewis" data-slug-hash="VRNLON" style="height: 310px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="Attribute Selector 2">
   <span>See the Pen <a href="https://codepen.io/codylewis/pen/VRNLON/">
@@ -41,9 +37,9 @@ Attribute selectors are powerful but they become even more so when you specify a
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 
-Oddly enough, even though the first selector with the value of "canine" seems to be more specific that actually isn't the case since the `color: cyan` styling isn't applied to the "Dog" text.
+Specifying a value of the attribute limits, potentially, which elements have the styling applied to them.
 
-Order, as well as specificity, matters. This is seen in action with the `color: seagreen` styling being applied as intended to the "Cat" text.
+Even though `[data-alt="canine"]` seems to be more specific, that isn't the case. The two rules are treated as the same level of specificity and the order of the selectors take precedence. This is seen with the the `firebrick` color being applied to the "Dog" text instead of `cyan`.
 
 ## Tilde `~`
 
