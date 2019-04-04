@@ -39,7 +39,7 @@ The "Wolf" does not have the `data-alt` attribute hence the lack of styling.
 
 Specifying a value of the attribute limits, potentially, which elements have the styling applied to them.
 
-Even though `[data-alt="canine"]` seems to be more specific, that isn't the case. The two rules are treated as the same level of specificity and the order of the selectors take precedence. This is seen with the the `firebrick` color being applied to the "Dog" text instead of `cyan`.
+Even though `[data-alt="canine"]` seems to be more specific, that isn't the case. The two rules are treated as the same level of specificity and the order of the selectors take precedence. This is seen with the `firebrick` color being applied to the "Dog" text instead of `cyan`.
 
 ## Tilde `~`
 
@@ -49,9 +49,9 @@ Even though `[data-alt="canine"]` seems to be more specific, that isn't the case
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 
-The `~` allows for there to be multiple values as long as they are separated by whitespace.
+The `~` allows for values as long as they are separated by whitespace.
 
-In the example above, the `[data-option~="Four"]` selector is applied to the `<li>` tag with the attribute value of "Four Legged" since there is space separating the two. The other `<li>` with the attribute of "FourLegged" does not have the rule applied because of the **lack** of whitespace.
+In the example above, the `[data-option~="Four"]` selector is applied to the `<li>` tag with the attribute value of "Four Legged" since there is a space separating the two. The other `<li>` with the attribute of "FourLegged" does not have the rule applied because of the **lack** of whitespace.
 
 ## Pipe `|`
 
@@ -71,7 +71,7 @@ The `|` before the equal sign is the exact same as the previous example with the
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 
-The `^` indicates that the attribute value must prefix by the value in the CSS selector. In this instance, the `data-attr` value must prefix with "Four" for the selector and styling to be applied.
+The `^` indicates that the attribute value must be prefixed by the value in the CSS selector. In this instance, the `data-attr` value must be prefixed with "Four" for the selector and styling to be applied.
 
 ## Dollar Sign `$`
 
@@ -91,7 +91,7 @@ The example above is the same on the previous except for one character. In the C
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 
-The `*` is one of the most useful and dangerous of the attribute selector. As long as the CSS selector value is within the attribute value then the styling will be applied.
+The `*` is one of the most useful and dangerous of the attribute selectors. As long as the CSS selector value is within the attribute value then the styling will be applied.
 
 > With great power comes great responsibility
 >
@@ -125,7 +125,7 @@ Vice versa, case sensitivity means that the value must match exactly in regards 
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 
-The real fun and potentially lack of real-world usage comes into play with you start to combine selectors!
+More fun and complex situations come into play with you start to combine selectors.
 
 There are endless applications of these selectors but with CSS less is more -- more maintainable for sure.
 
