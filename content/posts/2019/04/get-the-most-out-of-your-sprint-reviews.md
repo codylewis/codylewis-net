@@ -1,6 +1,6 @@
 +++
 title = "Get the Most Out of Your Sprint Reviews"
-date = 2019-04-21
+date = 2019-05-05
 draft = true
 tags = ["scrum","sprintreview","retrospective","agile"]
 categories = ["Agile"]
@@ -20,6 +20,18 @@ Easier said than done but there are a few small things that can be done that hav
 
 ## Who Doesn't Love Small Talk?
 
-## Throwing a Few Soft Balls
+Not everyone does but it's your job to help enable those in the meeting to get comfortable. Know your audience and ask about topic you know they'd like to talk about.
+
+Is someone in the group a proud parent? Ask about how their kids are doing to get the conversation started. It doesn't and shouldn't be sometime monumental, the only goal is to get the conversation started.
+
+Instead of awkward silence the first few minutes of the meeting, they've instead chatted about well their kid's little league is going. They're already comfortable to talk about their family with you -- feedback on your presentation will be a cinch.
+
+## Throwing a Few Softballs
+
+The product owner has expertly delivered the first portion of sprint review and segues to the demo. Things are going well and everyone in being attentive, time for some targeted questions, right?
+
+Targeted in a way, yes.
+
+Just like a baseball pitcher does a few practice swings before trying to slam the ball over the fences. A few practice or "softball" will boost confidence and prime stakeholders for the more important questions that will follow.
 
 <!-- Constant iteration and closing -->
