@@ -8,9 +8,9 @@ categories = ["Agile"]
 
 ## Sprint Review
 
-The team just finished the presenting the work done the past sprint. There's been some feedback and comments.
+The team just finished presenting the work done the past sprint. There's been some feedback and comments.
 
-> Oh, that's look good.
+> Oh, that looks good.
 
 > It's nice that it works on phones now.
 
@@ -20,18 +20,20 @@ Easier said than done but there are a few small things that can be done that hav
 
 ## Who Doesn't Love Small Talk?
 
-Not everyone does but it's your job to help enable those in the meeting to get comfortable. Know your audience and ask about topic you know they'd like to talk about.
+Not everyone does but it's your job to help enable those in the meeting to get comfortable. Know your audience and ask about the topic you know they'd like to talk about.
 
-Is someone in the group a proud parent? Ask about how their kids are doing to get the conversation started. It doesn't and shouldn't be sometime monumental, the only goal is to get the conversation started.
+Is someone in the group a proud parent? Ask about how their kids are doing to get the conversation started. It doesn't and shouldn't be something monumental, the only goal is to get the conversation started.
 
 Instead of awkward silence the first few minutes of the meeting, they've instead chatted about well their kid's little league is going. They're already comfortable to talk about their family with you -- feedback on your presentation will be a cinch.
 
 ## Throwing a Few Softballs
 
-The product owner has expertly delivered the first portion of sprint review and segues to the demo. Things are going well and everyone in being attentive, time for some targeted questions, right?
+The product owner has expertly delivered the first portion of the sprint review and segues to the demo. Things are going well and everyone in being attentive, time for some targeted questions, right?
 
 Targeted in a way, yes.
 
 Just like a baseball pitcher does a few practice swings before trying to slam the ball over the fences. A few practice or "softball" will boost confidence and prime stakeholders for the more important questions that will follow.
 
-<!-- Constant iteration and closing -->
+## It's a Process
+
+This approach might likely won't take you from little feedback to exceeding the meeting time by 30 minutes because of the conversations sparked -- a nice problem to have.
