@@ -1,7 +1,7 @@
 +++
 title = "Get the Most Out of Your Sprint Reviews"
-date = 2019-05-05
-draft = true
+date = 2019-05-19
+draft = false
 tags = ["scrum","sprintreview","retrospective","agile"]
 categories = ["Agile"]
 +++
@@ -32,8 +32,10 @@ The product owner has expertly delivered the first portion of the sprint review 
 
 Targeted in a way, yes.
 
-Just like a baseball pitcher does a few practice swings before trying to slam the ball over the fences. A few practice or "softball" will boost confidence and prime stakeholders for the more important questions that will follow.
+Just like a baseball pitcher does a few practice swings before trying to slam the ball over the fences. A few practice or "softball" questions will boost confidence and prime stakeholders for the more important questions that will follow.
 
 ## It's a Process
 
-This approach might likely won't take you from little feedback to exceeding the meeting time by 30 minutes because of the conversations sparked -- a nice problem to have.
+Start small and naturally work things in that your team is on board with. Developing great software is a team effort and getting feedback during the review is no different.
+
+Just like your team iterates during development, a successful sprint review just as much refinement.
