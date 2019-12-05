@@ -37,7 +37,9 @@ If you see this icon <img src="/monster-hunter-world/icons/caret-down.png" style
 <img src="/monster-hunter-world/icons/plus.png"> 
 <img src="/monster-hunter-world/icons/circle.png"> 
 
-## More damage but moves you around more (harder to loop)
+## More damage but moves you around more
+
+Harder to loop
 
 <img src="/monster-hunter-world/icons/caret-down.png"> 
 <br/>
