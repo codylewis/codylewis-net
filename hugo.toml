@@ -18,7 +18,7 @@ defaultContentLanguage = "en"
   unsafe = true
 
 [params]
-  defaultTheme = "dark"
+  defaultTheme = "auto"
   displayFullLangName = true
   goatcounter = "cody"
   images = ["img/og-en.jpg"]
