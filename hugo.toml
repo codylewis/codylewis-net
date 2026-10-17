@@ -37,14 +37,13 @@ defaultContentLanguage = "en"
   weight = 1
 
   [languages.en.params]
-    description = "🇮🇪 Gaeilgeoir 🎤 Speaker 🎭 Improv"
+    description = "I'm a Senior Software Engineer at Connective Consulting finishing up my Bachelor's Degree in Linguistics at UW-Milwaukee."
 
     [languages.en.params.profileMode]
       enabled = true
       greeting = "Haigh a chairde, mise Cody!"
       title = "Cody Lewis"
       pronouns = "they/them"
-      subtitle = "🇮🇪 Gaeilgeoir 🎤 Speaker 🎭 Improv"
       bio = "I'm a Senior Software Engineer at [Connective Consulting](https://www.connectiveconsulting.com/) finishing up my Bachelor's Degree in [Linguistics at UW-Milwaukee](https://uwm.edu/linguistics/)."
       invite = "Má tá Gaeilge agat, [seol teachtaireacht chugam](https://www.linkedin.com/in/codyslewis), déanaimis comhrá!"
       imageUrl = "/img/profile.jpg"
@@ -62,7 +61,7 @@ defaultContentLanguage = "en"
   weight = 2
 
   [languages.ga.params]
-    description = "🇮🇪 Gaeilgeoir 🎤 Cainteoir 🎭 Tobchumadh"
+    description = "Is Innealtóir Bogearraí Sinsearach mé ag Connective Consulting, agus mo chéim bhaitsiléara sa Teangeolaíocht á críochnú agam in UW-Milwaukee."
     images = ["img/og-ga.jpg"]
 
     [languages.ga.params.profileMode]
@@ -70,7 +69,6 @@ defaultContentLanguage = "en"
       greeting = "Haigh a chairde, mise Cody!"
       title = "Cody Lewis"
       pronouns = "siad/iad"
-      subtitle = "🇮🇪 Gaeilgeoir 🎤 Cainteoir 🎭 Tobchumadh"
       bio = "Is Innealtóir Bogearraí Sinsearach mé ag [Connective Consulting](https://www.connectiveconsulting.com/), agus mo chéim bhaitsiléara sa Teangeolaíocht á críochnú agam in [UW-Milwaukee](https://uwm.edu/linguistics/)."
       invite = "Má tá Gaeilge agat, [seol teachtaireacht chugam](https://www.linkedin.com/in/codyslewis), déanaimis comhrá!"
       imageUrl = "/img/profile.jpg"

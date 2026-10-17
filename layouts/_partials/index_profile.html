@@ -34,8 +34,6 @@
         <p class="greeting" lang="ga">{{ . }}</p>
         {{- end }}
         <h1>{{ .title | default site.Title }}{{ with .pronouns }} <span class="pronouns">{{ . }}</span>{{ end }}</h1>
-        {{- /* Emoji are decorative; hide them so screen readers just read the words */}}
-        <span>{{ .subtitle | markdownify | replaceRE `([\x{1F1E6}-\x{1F1FF}]{2}|\p{So})` `<span aria-hidden="true">$1</span>` | safeHTML }}</span>
         {{- with .bio }}
         <p class="bio">{{ . | markdownify }}</p>
         {{- end }}
