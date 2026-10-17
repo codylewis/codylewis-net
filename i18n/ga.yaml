@@ -34,3 +34,6 @@
 
 - id: lang_en
   translation: "Béarla"
+
+- id: powered_by
+  translation: "Á chumhachtú ag"
