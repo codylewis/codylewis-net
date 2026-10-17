@@ -1,0 +1,11 @@
+# Opens a monthly PR when the PaperMod theme submodule has new commits.
+# Netlify builds a deploy preview for each PR so updates can be checked
+# before merging. Also compare the theme files overridden in layouts/.
+version: 2
+updates:
+  - package-ecosystem: "gitsubmodule"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+    commit-message:
+      prefix: "theme"
