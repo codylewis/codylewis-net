@@ -1,0 +1,33 @@
+- id: prev_page
+  translation: "Roimhe"
+
+- id: next_page
+  translation: "Ar aghaidh"
+
+- id: read_time
+  translation:
+    one : "1 nóim"
+    other: "{{ .Count }} nóim"
+
+- id: words
+  translation:
+    one : "focal"
+    other: "{{ .Count }} focal"
+
+- id: toc
+  translation: "Clár Ábhair"
+
+- id: translations
+  translation: "Aistriúcháin"
+
+- id: home
+  translation: "Baile"
+
+- id: edit_post
+  translation: "Cuir in eagar"
+
+- id: code_copy
+  translation: "cóipeáil"
+
+- id: code_copied
+  translation: "cóipeáilte!"

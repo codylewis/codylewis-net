@@ -1,3 +1,9 @@
 {{ if .Params.hasCodePen }}
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 {{ end }}
+{{- /* Count visits only on the live site, not local runs or deploy previews */}}
+{{- with site.Params.goatcounter }}
+{{- if and hugo.IsProduction (eq site.BaseURL "https://codylewis.net/") }}
+<script data-goatcounter="https://{{ . }}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+{{- end }}
+{{- end }}

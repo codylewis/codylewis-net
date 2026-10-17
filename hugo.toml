@@ -1,5 +1,4 @@
 baseURL = "https://codylewis.net/"
-locale = "en-us"
 title = "Cody Lewis"
 theme = "PaperMod"
 copyright = "© Cody Lewis"
@@ -11,26 +10,18 @@ summaryLength = 30
 # The blog is archived: posts keep their /posts/... URLs and stay in the
 # sitemap so search results still resolve, but nothing links to them.
 
+# English stays at the root so existing URLs don't change; Irish is at /ga/.
+defaultContentLanguage = "en"
+
 [markup.goldmark.renderer]
   # Older posts embed CodePen with raw HTML
   unsafe = true
 
 [params]
-  description = "🇮🇪 Gaeilgeoir 🎤 Speaker 🎭 Improv"
   defaultTheme = "dark"
-
-  [params.profileMode]
-    enabled = true
-    title = 'Cody Lewis <span class="pronouns">they/them</span>'
-    subtitle = "🇮🇪 Gaeilgeoir 🎤 Speaker 🎭 Improv"
-    imageUrl = "/img/profile.jpg"
-    imageWidth = 160
-    imageHeight = 160
-    imageTitle = "Cody Lewis"
-
-    [[params.profileMode.buttons]]
-      name = "Syntax Tree Generator"
-      url = "https://syntaxtree.codylewis.net/"
+  displayFullLangName = true
+  goatcounter = "cody"
+  images = ["img/og-en.jpg"]
 
   [[params.socialIcons]]
     name = "github"
@@ -40,5 +31,53 @@ summaryLength = 30
     name = "linkedin"
     url = "https://www.linkedin.com/in/codyslewis"
 
-  [params.assets]
-    favicon = "/img/favicon.ico"
+[languages.en]
+  languageName = "English"
+  locale = "en-us"
+  weight = 1
+
+  [languages.en.params]
+    description = "🇮🇪 Gaeilgeoir 🎤 Speaker 🎭 Improv"
+
+    [languages.en.params.profileMode]
+      enabled = true
+      greeting = "Haigh a chairde, mise Cody!"
+      title = "Cody Lewis"
+      pronouns = "they/them"
+      subtitle = "🇮🇪 Gaeilgeoir 🎤 Speaker 🎭 Improv"
+      bio = "I'm a Senior Software Engineer at Connective finishing up my Bachelor's Degree in Linguistics at UW-Milwaukee."
+      invite = "Má tá Gaeilge agat, [seol teachtaireacht chugam](https://www.linkedin.com/in/codyslewis), déanaimis comhrá!"
+      imageUrl = "/img/profile.jpg"
+      imageWidth = 160
+      imageHeight = 160
+      imageTitle = "Cody Lewis"
+
+      [[languages.en.params.profileMode.buttons]]
+        name = "Syntax Tree Generator"
+        url = "https://syntaxtree.codylewis.net/"
+
+[languages.ga]
+  languageName = "Gaeilge"
+  locale = "ga"
+  weight = 2
+
+  [languages.ga.params]
+    description = "🇮🇪 Gaeilgeoir 🎤 Óráidí 🎭 Tobchumadh"
+    images = ["img/og-ga.jpg"]
+
+    [languages.ga.params.profileMode]
+      enabled = true
+      greeting = "Haigh a chairde, mise Cody!"
+      title = "Cody Lewis"
+      pronouns = "siad/iad"
+      subtitle = "🇮🇪 Gaeilgeoir 🎤 Óráidí 🎭 Tobchumadh"
+      bio = "Is Innealtóir Bogearraí Sinsearach mé ag Connective, agus mé ag críochnú mo chéime baitsiléara sa Teangeolaíocht in UW-Milwaukee."
+      invite = "Má tá Gaeilge agat, [seol teachtaireacht chugam](https://www.linkedin.com/in/codyslewis), déanaimis comhrá!"
+      imageUrl = "/img/profile.jpg"
+      imageWidth = 160
+      imageHeight = 160
+      imageTitle = "Cody Lewis"
+
+      [[languages.ga.params.profileMode.buttons]]
+        name = "Gineadóir Crann Comhréire"
+        url = "https://syntaxtree.codylewis.net/"
