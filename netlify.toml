@@ -13,9 +13,3 @@ command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 [context.branch-deploy]
 command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
-# The syntax tree app moved to its own subdomain (GitHub Pages)
-[[redirects]]
-from = "/apps/syntax-tree-generator/*"
-to = "https://syntaxtree.codylewis.net/"
-status = 301
-force = true
