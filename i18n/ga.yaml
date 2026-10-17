@@ -32,8 +32,5 @@
 - id: code_copied
   translation: "cóipeáilte!"
 
-- id: lang_en
-  translation: "Béarla"
-
 - id: powered_by
   translation: "Cumhachtaithe ag"
