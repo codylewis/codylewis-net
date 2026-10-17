@@ -23,6 +23,11 @@ defaultContentLanguage = "en"
   goatcounter = "cody"
   images = ["img/og-en.jpg"]
 
+  [params.assets]
+    # Dark-mode background from assets/css/extended/colors.css
+    theme_color = "#131a1e"
+    msapplication_TileColor = "#131a1e"
+
   [[params.socialIcons]]
     name = "github"
     url = "https://github.com/codylewis"
