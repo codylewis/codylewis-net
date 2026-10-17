@@ -37,13 +37,13 @@ defaultContentLanguage = "en"
   weight = 1
 
   [languages.en.params]
-    description = "I'm a Senior Software Engineer at Connective Consulting finishing up my Bachelor's Degree in Linguistics at UW-Milwaukee."
+    description = "I'm a Senior Software Engineer at Connective Consulting, and I'm finishing up my Bachelor's Degree in Linguistics at UW-Milwaukee."
 
     [languages.en.params.profileMode]
       enabled = true
       greeting = "Haigh a chairde, mise Cody"
       pronouns = "they/them"
-      bio = "I'm a Senior Software Engineer at [Connective Consulting](https://www.connectiveconsulting.com/) finishing up my Bachelor's Degree in [Linguistics at UW-Milwaukee](https://uwm.edu/linguistics/)."
+      bio = "I'm a Senior Software Engineer at [Connective Consulting](https://www.connectiveconsulting.com/), and I'm finishing up my Bachelor's Degree in [Linguistics at UW-Milwaukee](https://uwm.edu/linguistics/)."
       invite = "Má tá Gaeilge agat, [seol teachtaireacht chugam](https://www.linkedin.com/in/codyslewis), déanaimis comhrá!"
       imageUrl = "/img/profile.jpg"
       imageWidth = 160
