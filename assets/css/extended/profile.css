@@ -1,0 +1,12 @@
+/* Thin ring around the homepage photo, offset by a gap in the page colour */
+.profile img {
+    box-shadow: 0 0 0 4px var(--theme), 0 0 0 6px var(--secondary);
+}
+
+.profile .pronouns {
+    font-size: 0.45em;
+    font-weight: 400;
+    color: var(--secondary);
+    vertical-align: middle;
+    margin-inline-start: 0.4em;
+}

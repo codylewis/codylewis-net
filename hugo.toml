@@ -1,0 +1,44 @@
+baseURL = "https://codylewis.net/"
+locale = "en-us"
+title = "Cody Lewis"
+theme = "PaperMod"
+copyright = "© Cody Lewis"
+
+enableEmoji = true
+enableRobotsTXT = true
+summaryLength = 30
+
+# The blog is archived: posts keep their /posts/... URLs and stay in the
+# sitemap so search results still resolve, but nothing links to them.
+
+[markup.goldmark.renderer]
+  # Older posts embed CodePen with raw HTML
+  unsafe = true
+
+[params]
+  description = "🇮🇪 Gaeilgeoir 🎤 Speaker 🎭 Improv"
+  defaultTheme = "dark"
+
+  [params.profileMode]
+    enabled = true
+    title = 'Cody Lewis <span class="pronouns">they/them</span>'
+    subtitle = "🇮🇪 Gaeilgeoir 🎤 Speaker 🎭 Improv"
+    imageUrl = "/img/profile.jpg"
+    imageWidth = 160
+    imageHeight = 160
+    imageTitle = "Cody Lewis"
+
+    [[params.profileMode.buttons]]
+      name = "Syntax Tree Generator"
+      url = "/apps/syntax-tree-generator/"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/codylewis"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/codyslewis"
+
+  [params.assets]
+    favicon = "/img/favicon.ico"

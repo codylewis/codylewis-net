@@ -2,29 +2,26 @@
 publish = "public"
 command = "hugo --gc --minify"
 
-[context.production.environment]
-HUGO_VERSION = "0.53"
-HUGO_ENV = "production"
-HUGO_ENABLEGITINFO = "true"
-
-[context.split1]
-command = "hugo  --gc --minify --enableGitInfo"
-
-[context.split1.environment]
-HUGO_VERSION = "0.53"
+[build.environment]
+HUGO_VERSION = "0.168.0"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
-command = "hugo  --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
-
-[context.deploy-preview.environment]
-HUGO_VERSION = "0.53"
+command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy]
-command = "hugo  --gc --minify -b $DEPLOY_PRIME_URL"
+command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
-[context.branch-deploy.environment]
-HUGO_VERSION = "0.53"
+# Syntax tree app is hosted on GitHub Pages and served here via proxy.
+# The trailing slash matters: the app loads css/ and js/ with relative paths.
+[[redirects]]
+from = "/apps/syntax-tree-generator"
+to = "/apps/syntax-tree-generator/"
+status = 301
+force = true
 
-[context.next.environment]
-HUGO_ENABLEGITINFO = "true"
+[[redirects]]
+from = "/apps/syntax-tree-generator/*"
+to = "https://codylewis.github.io/syntree/:splat"
+status = 200
+force = true
