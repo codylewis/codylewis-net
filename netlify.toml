@@ -5,6 +5,7 @@ command = "hugo --gc --minify"
 [build.environment]
 HUGO_VERSION = "0.168.0"
 HUGO_ENV = "production"
+NODE_VERSION = "22"
 
 [context.deploy-preview]
 command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
@@ -14,12 +15,8 @@ command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 # Syntax tree app is hosted on GitHub Pages and served here via proxy.
 # The trailing slash matters: the app loads css/ and js/ with relative paths.
-[[redirects]]
-from = "/apps/syntax-tree-generator"
-to = "/apps/syntax-tree-generator/"
-status = 301
-force = true
-
+# Netlify ignores trailing slashes when matching redirects, so adding the slash
+# is done in netlify/edge-functions/syntax-tree-slash.ts instead.
 [[redirects]]
 from = "/apps/syntax-tree-generator/*"
 to = "https://codylewis.github.io/syntree/:splat"
