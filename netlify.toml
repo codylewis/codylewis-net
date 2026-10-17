@@ -13,20 +13,9 @@ command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 [context.branch-deploy]
 command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
-# Syntax tree app is hosted on GitHub Pages and served here via proxy.
-# The trailing slash matters: the app loads css/ and js/ with relative paths.
-# Netlify ignores trailing slashes when matching redirects, so adding the slash
-# is done in netlify/edge-functions/syntax-tree-slash.ts instead.
-# An empty :splat loses the trailing slash and GitHub Pages redirects back to
-# it, which loops, so the app root is mapped to index.html explicitly.
-[[redirects]]
-from = "/apps/syntax-tree-generator/"
-to = "https://codylewis.github.io/syntree/index.html"
-status = 200
-force = true
-
+# The syntax tree app moved to its own subdomain (GitHub Pages)
 [[redirects]]
 from = "/apps/syntax-tree-generator/*"
-to = "https://codylewis.github.io/syntree/:splat"
-status = 200
+to = "https://syntaxtree.codylewis.net/"
+status = 301
 force = true

@@ -30,7 +30,7 @@ summaryLength = 30
 
     [[params.profileMode.buttons]]
       name = "Syntax Tree Generator"
-      url = "/apps/syntax-tree-generator/"
+      url = "https://syntaxtree.codylewis.net/"
 
   [[params.socialIcons]]
     name = "github"
