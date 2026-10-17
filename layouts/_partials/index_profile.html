@@ -23,17 +23,17 @@
                     {{- $img = $img.Resize "150x150" }}
                 {{- end }}
             {{- end }}
-            <img draggable="false" src="{{ $img.Permalink }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}"
+            <img draggable="false" src="{{ $img.Permalink }}" alt="{{ .imageTitle | default "profile image" }}"
                 height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
         {{- else }}
-        <img draggable="false" src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}"
+        <img draggable="false" src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}"
             height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
         {{- end }}
         {{- end }}
-        {{- with .greeting }}
-        <p class="greeting" lang="ga">{{ . }}</p>
-        {{- end }}
-        <h1>{{ .title | default site.Title }}{{ with .pronouns }} <span class="pronouns">{{ . }}</span>{{ end }}</h1>
+        {{- /* The greeting is the heading; the name and pronouns are in the site header */}}
+        <h1 class="greeting" lang="ga">
+            {{- .greeting }}{{ with .pronouns }}, <span class="pronouns" lang="{{ site.Language.Lang }}">{{ . }}</span>{{ end -}}
+        </h1>
         {{- with .bio }}
         <p class="bio">{{ . | markdownify }}</p>
         {{- end }}

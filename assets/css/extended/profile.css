@@ -1,20 +1,12 @@
 /* Thin ring around the homepage photo, offset by a gap in the page colour */
 .profile img {
-    box-shadow: 0 0 0 4px var(--theme), 0 0 0 6px var(--secondary);
+    box-shadow: 0 0 0 4px var(--theme), 0 0 0 6px var(--accent);
 }
 
-.profile .pronouns {
-    font-size: 0.45em;
-    font-weight: 400;
-    color: var(--secondary);
-    vertical-align: middle;
-    margin-inline-start: 0.4em;
-}
-
-.profile .greeting {
-    margin: 0;
-    color: var(--secondary);
-    font-size: 1.1rem;
+.profile h1.greeting {
+    margin: 0.4rem 0;
+    font-size: 1.9rem;
+    color: var(--primary);
 }
 
 .profile .bio {
@@ -24,22 +16,41 @@
     line-height: 1.6;
 }
 
-.profile .bio a {
+/* Outlined so it doesn't outweigh the rest of the page */
+.profile .button {
+    background: transparent;
+    color: var(--accent);
+    box-shadow: inset 0 0 0 1.5px var(--accent);
+}
+
+.profile .button:hover {
+    background: color-mix(in srgb, var(--accent) 12%, transparent);
+}
+
+.profile .bio a,
+.archive-note a {
     color: var(--primary);
-    box-shadow: 0 1px 0 var(--secondary);
+    box-shadow: 0 1px 0 var(--accent);
+}
+
+.profile .bio a:hover,
+.archive-note a:hover,
+.social-icons a:hover {
+    color: var(--accent);
 }
 
 .archive-note {
     margin-bottom: var(--gap);
     padding: 0.75rem 1rem;
-    border-inline-start: 3px solid var(--tertiary);
+    border-inline-start: 3px solid var(--accent);
     background: var(--code-bg);
     border-radius: var(--radius);
     color: var(--secondary);
     font-size: 0.9rem;
 }
 
-.archive-note a {
-    color: var(--primary);
-    box-shadow: 0 1px 0 var(--secondary);
+.profile .pronouns {
+    font-size: 0.8em;
+    font-weight: 400;
+    color: var(--secondary);
 }
