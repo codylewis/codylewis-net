@@ -32,7 +32,12 @@
         {{- end }}
         {{- /* The greeting is the heading; the name and pronouns are in the site header */}}
         <h1 class="greeting" lang="ga">
-            {{- .greeting }}{{ with .pronouns }}, <span class="pronouns" lang="{{ site.Language.Lang }}">{{ . }}</span>{{ end -}}
+            {{- $greeting := .greeting }}
+            {{- /* Show the pronunciation when "Cody" in the greeting is hovered or focused */}}
+            {{- with site.Params.ipa }}
+            {{- $greeting = replace $greeting "Cody" (printf `<span class="name-ipa" tabindex="0" data-ipa="%s" aria-describedby="name-ipa">Cody</span><span id="name-ipa" hidden lang="en-fonipa">%s</span>` . .) }}
+            {{- end }}
+            {{- $greeting | safeHTML }}{{ with .pronouns }}, <span class="pronouns" lang="{{ site.Language.Lang }}">{{ . }}</span>{{ end -}}
         </h1>
         {{- with .bio }}
         <p class="bio">{{ . | markdownify }}</p>

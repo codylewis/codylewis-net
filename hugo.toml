@@ -21,6 +21,7 @@ defaultContentLanguage = "en"
   defaultTheme = "auto"
   displayFullLangName = true
   goatcounter = "cody"
+  ipa = "/ˈkoʊdi ˈluɪs/"
   images = ["img/og-en.jpg"]
 
   [params.assets]

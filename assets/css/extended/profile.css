@@ -54,3 +54,36 @@
     font-weight: 400;
     color: var(--secondary);
 }
+
+/* Pronunciation label that appears above the name on hover or focus */
+.name-ipa {
+    position: relative;
+    text-decoration: underline dotted var(--accent);
+    text-decoration-thickness: 2px;
+    text-underline-offset: 0.2em;
+    cursor: help;
+}
+
+.name-ipa::after {
+    content: attr(data-ipa);
+    position: absolute;
+    bottom: calc(100% + 0.4rem);
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 0.25rem 0.6rem;
+    border-radius: var(--radius);
+    background: var(--entry);
+    box-shadow: 0 0 0 1px var(--border);
+    color: var(--secondary);
+    font-size: 1rem;
+    font-weight: 400;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.15s;
+}
+
+.name-ipa:hover::after,
+.name-ipa:focus::after {
+    opacity: 1;
+}
